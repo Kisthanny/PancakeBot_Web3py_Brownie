@@ -1,0 +1,7 @@
+dotenv: .env
+wallets:
+  mnemonic_KV: ${MNEMONIC_KV}
+  mnemonic_KK: ${MNEMONIC_KK}
+  mnemonic_GANACHE: ${MNEMONIC_GANACHE}
+keys: 
+  bscScanKey: ${BSC_SCAN_APIKEY}
